@@ -11,7 +11,8 @@ _start:
 
 𝗔𝗯𝗼𝘂𝘁:
 
-![Photo_linkedin](https://github.com/VenkataramanaKB/VenkataramanaKB/assets/121935454/24af2875-b4ab-4896-9a4a-eb3de32e7d8d)
+![Photo_linkedin](https://github.com/VenkataramanaKB/VenkataramanaKB/assets/121935454/027a27ad-9457-462a-b305-b6674f3631ee)
+
 
 
 
