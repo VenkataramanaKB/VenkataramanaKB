@@ -7,7 +7,13 @@ _start:
   mov ebx, 1                   
   mov ecx, hello               
   mov edx, 13                  
-  int 0x80                     
+  int 0x80
+
+𝗔𝗯𝗼𝘂𝘁:
+
+![Photo_linkedin](https://github.com/VenkataramanaKB/VenkataramanaKB/assets/121935454/24af2875-b4ab-4896-9a4a-eb3de32e7d8d)
+
+
 
 I'm Venkat, an aspiring engineer ready to learn, re-learn and unlearn. Pursuing my bachelor's in Electronics & Communication.
 
@@ -24,4 +30,5 @@ Looking forward to collaborate with like minded people!!
 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗠𝗲:
 
 📧 venkataramanakbala@gmail.com
+
 in  VenkataramanaKB
