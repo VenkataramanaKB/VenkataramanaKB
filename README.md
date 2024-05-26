@@ -1,7 +1,8 @@
 𝐇𝐞𝐥𝐥𝐨, 𝐖𝐨𝐫𝐥𝐝!
 
 I'm Venkataramana K B
-Thanks for your time!!!
+
+
 
 
 𝗔𝗯𝗼𝘂𝘁:
