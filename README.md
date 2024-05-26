@@ -1,16 +1,27 @@
-## Hi there 👋
+section .data
+    hello db 'Hello, World!',0   
+section .text
+    global _start                
+_start:
+  mov eax, 4                   
+  mov ebx, 1                   
+  mov ecx, hello               
+  mov edx, 13                  
+  int 0x80                     
 
-<!--
-**VenkataramanaKB/VenkataramanaKB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Venkat, an aspiring engineer ready to learn, re-learn and unlearn. Pursuing my bachelor's in Electronics & Communication.
 
-Here are some ideas to get you started:
+I program in c, java, c++ and python (The assembly in the beginning was copied lol). My interests involves robotics, Machine Learning, computer vision and embedded programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Looking forward to collaborate with like minded people!!
+   
+
+𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞:
+
+['Python','Tensorflow','Java','ROS','SLAM','Computer Vision','ROS2','Gazebo','Javascript','C','C++']
+
+
+𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗠𝗲:
+
+📧 venkataramanakbala@gmail.com
+in  VenkataramanaKB
