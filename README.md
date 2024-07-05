@@ -17,7 +17,7 @@ Looking forward to collaborate with like minded people!!
 
 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞:
 
-['Python','Tensorflow','Java','ROS','SLAM','Computer Vision','ROS2','Gazebo','Javascript','C','C++']
+['Python','Tensorflow','ReactJS','django',java','ROS','SLAM','Computer Vision','ROS2','Gazebo','Javascript','C','C++']
 
 Projects:
 
