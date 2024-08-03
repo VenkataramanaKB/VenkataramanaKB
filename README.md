@@ -7,15 +7,14 @@ I'm Venkataramana K B
 
 𝗔𝗯𝗼𝘂𝘁:
 
-
-I'm Venkat, an aspiring engineer ready to learn, re-learn and unlearn. Pursuing my bachelor's in Electronics & Communication.
-
-I program in c, java, c++, python, javascript. My interests involves robotics, Machine Learning, computer vision and embedded programming.
-
-Looking forward to collaborate with like minded people!!
+👋🏽Hello, I'm Venkat, a sophomore pursuing my bachelor's in Electronics and Communication Engineering. Ready to learn, re-learn and unlearn.
+🌞I'm a Machine Learning enthusiast and roboticist, working currently on the related tech.
+🎯I have a keen interest in web development, machine learning, and robotics, particularly in computer vision and autonomous mobility.
+💻I'm a multilingual developer, I'm proficient in C, C++, Java, Javascript and Python.
+🔗Apart from tech, I'm a carnatic percussionist and also a fitness enthusiast.
    
 
-𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞:
+#𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞:
 
 ['Python','Tensorflow','ReactJS','django',java','ROS','SLAM','Computer vision','ROS2','Gazebo','Javascript','C','C++']
 
