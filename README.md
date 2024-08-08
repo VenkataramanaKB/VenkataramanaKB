@@ -9,7 +9,7 @@
 
 - 🎯 **I have a keen interest in web development, machine learning, and robotics, particularly in computer vision and autonomous mobility.**
 
-- 👨‍💻 All of my projects are available at [https://venkataramana.vercel.app/](https://venkataramana.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://venkataramana.vercel.app/)
 
 - 🔗 **Apart from tech, I'm a carnatic percussionist and also a fitness enthusiast.**
 
