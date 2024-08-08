@@ -3,19 +3,19 @@
 
 <img align="right"  src="https://github.com/VenkataramanaKB/Personal-Portfolio-website/blob/main/images/avatar-(ProfilePictureMaker.com).png" alt="venkataramanakb" height="400" width="400" />
 
-
-- 👋🏽 **Hello, I'm Venkat, a sophomore pursuing my bachelor's in Electronics and Communication Engineering. Ready to learn, re-learn and unlearn.**
-
-- 🌞 **I'm a Machine Learning enthusiast and roboticist, working currently on the related tech.**
-
-- 💻 **I'm a multilingual developer, I'm proficient in C, C++, Java, Javascript and Python.**
-
-- 🎯 **I have a keen interest in web development, machine learning, and robotics, particularly in computer vision and autonomous mobility.**
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://venkataramana.vercel.app/)
-
-- 🔗 **Apart from tech, I'm a carnatic percussionist and also a fitness enthusiast.**
-
+<p align="justify">
+  - 👋🏽 **Hello, I'm Venkat, a sophomore pursuing my bachelor's in Electronics and Communication Engineering. Ready to learn, re-learn and unlearn.**
+  
+  - 🌞 **I'm a Machine Learning enthusiast and roboticist, working currently on the related tech.**
+  
+  - 💻 **I'm a multilingual developer, I'm proficient in C, C++, Java, Javascript and Python.**
+  
+  - 🎯 **I have a keen interest in web development, machine learning, and robotics, particularly in computer vision and autonomous mobility.**
+  
+  - 👨‍💻 All of my projects are available at [Portfolio](https://venkataramana.vercel.app/)
+  
+  - 🔗 **Apart from tech, I'm a carnatic percussionist and also a fitness enthusiast.**
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/venkataramanakb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkataramanakb" height="30" width="40" /></a>
