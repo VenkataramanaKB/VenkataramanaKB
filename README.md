@@ -1,40 +1,20 @@
-𝐇𝐞𝐥𝐥𝐨, 𝐖𝐨𝐫𝐥𝐝!
+<h1 align="center">Hi 👋, I'm Venkat from India</h1>
+<h3 align="center">Software Developer and Roboticist.</h3>
 
-I'm Venkataramana K B
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkataramanakb&label=Profile%20views&color=0e75b6&style=flat" alt="venkataramanakb" /> </p>
 
+- 👋🏽Hello, I'm Venkat, a sophomore pursuing my bachelor's in Electronics and Communication Engineering. Ready to learn, re-learn and unlearn. **ML & Data Science and Robotics**
 
+- 👨‍💻 All of my projects are available at [https://venkataramana.vercel.app/](https://venkataramana.vercel.app/)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/venkataramanakb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/venkataramanakb/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/venkataramanakb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/venkataramanakb/" height="30" width="40" /></a>
+</p>
 
-𝗔𝗯𝗼𝘂𝘁:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-👋🏽Hello, I'm Venkat, a sophomore pursuing my bachelor's in Electronics and Communication Engineering. Ready to learn, re-learn and unlearn.
-🌞I'm a Machine Learning enthusiast and roboticist, working currently on the related tech.
-🎯I have a keen interest in web development, machine learning, and robotics, particularly in computer vision and autonomous mobility.
-💻I'm a multilingual developer, I'm proficient in C, C++, Java, Javascript and Python.
-🔗Apart from tech, I'm a carnatic percussionist and also a fitness enthusiast.
-   
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venkataramanakb&show_icons=true&locale=en" alt="venkataramanakb" /></p>
 
-#𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞:
-
-['Python','Tensorflow','ReactJS','django',java','ROS','SLAM','Computer vision','ROS2','Gazebo','Javascript','C','C++']
-
-Projects:
-
-1. Personal Protection Equipment Detection - YOLO V8
-   
-   It helps to monitor and find out if the construction workers are wearing necessary safety equipments. Created 7 custom objects and trained on over 1300+ datas.
-
-2. Gesture Based Home Automation - OPENCV, SERIAL COMMUNICATION, MEDIAPIPE
-
-   It is a novel approach to home automation through computer vision and machine learning. Based on gestures from user input particular process such as turning on or off the light can be automated.
-
-3. Computer vision based monitoring of Underloading of Coal Wagons - OPENCV, TENSORFLOW
-   
-   It is an IOT device to monitor the underloading of coal wagons and sending a message to the concerned authorities as well as the payloader.
-
-   
-𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗠𝗲:
-
-📧 venkataramanakbala@gmail.com
-
-in  VenkataramanaKB
