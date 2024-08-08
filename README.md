@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Venkat from India</h1>
 <h3 align="center">Software Developer and Roboticist.</h3>
-<div style="text-align: center;">
+<div style="max-width: fit-content; margin-left:auto; margin-right:auto;">
   <img align="center" src="https://github.com/VenkataramanaKB/Personal-Portfolio-website/blob/main/images/avatar-(ProfilePictureMaker.com).png" alt="venkataramanakb" height="400" width="400" />
 </div>
 
