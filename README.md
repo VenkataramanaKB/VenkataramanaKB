@@ -1,12 +1,19 @@
-<img src="./images/favicon.jpg" align="left" width="80" alt="favicon" border="0">
-
-## about me
-
-- i'm **venkataramana** from india  
-- i love tech and problem-solving  
-- engineering student with a passion for **software development** and **data science**  
-- big on self-improvement—learning new tech, staying fit, and leveling up daily ⚡  
-- if i'm not on my pc, i'm probably immersed in books or anime (occasionally)  
-- aspirational, rigorous, and a hustler  
-
-📌 **portfolio:** [venkataramana.vercel.app](https://venkataramana.vercel.app/)
+<table>
+  <tr>
+    <td width="180">
+      <img src="./images/favicon.jpg" width="180" height="180" alt="favicon">
+    </td>
+    <td>
+      <h2 style="margin-left: 10px;">about me</h2>
+      <ul>
+        <li>i'm <strong>venkataramana</strong> from india</li>
+        <li>i love tech and problem-solving</li>
+        <li>engineering student with a passion for <strong>software development</strong> and <strong>data science</strong></li>
+        <li>big on self-improvement—learning new tech, staying fit, and leveling up daily ⚡</li>
+        <li>if i'm not on my pc, i'm probably immersed in books or anime (occasionally)</li>
+        <li>aspirational, rigorous, and a hustler</li>
+      </ul>
+      <p>📌 <strong>portfolio:</strong> <a href="https://venkataramana.vercel.app/" style="text-decoration: none;">venkataramana.vercel.app</a></p>
+    </td>
+  </tr>
+</table>
