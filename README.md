@@ -1,15 +1,12 @@
-<img src="https://i.ibb.co/pvzMXkNV/favicon.jpg" align="left"alt="favicon" border="0">
-<h2 align="justify">about me</h2>
+<img src="https://i.ibb.co/pvzMXkNV/favicon.jpg" align="left" width="80" alt="favicon" border="0">
 
-<ul>
-    <li>i'm Venkataramana from India</li>
-    <li>i love tech and problem solving</li>
+## about me
 
-   <li>Engineering student with a passion for software development and Data Science</li>
-    <li>big on self-improvement—learning new tech, staying fit, and leveling up daily ⚡</li>
-    <li>if I'm not on my pc, I would probably be immersed in books or anime(ocassionally)</li>
-    <li>aspirational, rigor, hustler</li>
-    <li><a>[portfolio](https://venkataramana.vercel.app/)</a></li>
-  
-</ul>
+- i'm **venkataramana** from india  
+- i love tech and problem-solving  
+- engineering student with a passion for **software development** and **data science**  
+- big on self-improvement—learning new tech, staying fit, and leveling up daily ⚡  
+- if i'm not on my pc, i'm probably immersed in books or anime (occasionally)  
+- aspirational, rigorous, and a hustler  
 
+📌 **portfolio:** [venkataramana.vercel.app](https://venkataramana.vercel.app/)
