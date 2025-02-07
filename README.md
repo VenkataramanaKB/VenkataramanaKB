@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/pvzMXkNV/favicon.jpg" align="left" width="80" alt="favicon" border="0">
+<img src="./images/favicon.jpg" align="left" width="80" alt="favicon" border="0">
 
 ## about me
 
