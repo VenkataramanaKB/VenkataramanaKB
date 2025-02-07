@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="180">
-      <img src="./images/favicon.jpg" width="180" height="180" alt="favicon">
+      <img src="./images/favicon.jpg" width="80" height="80" alt="favicon">
     </td>
     <td>
       <h2 style="margin-left: 10px;">about me</h2>
